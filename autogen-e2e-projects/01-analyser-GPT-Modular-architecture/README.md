@@ -109,9 +109,8 @@ Follow these steps to set up and run Analyzer GPT on your local machine.
 Clone the repository:
 
 ```bash
-git clone https://github.com/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab
-cd autogen/autogen-e2e-projects
-cd 01-analyser-GPT-Modular-architecture
+git clone https://github.com/arslan578/agentic-lab-autogen.git
+cd agentic-lab-autogen/autogen-e2e-projects/01-analyser-GPT-Modular-architecture
 ```
 
 Set up a Python virtual environment:
@@ -158,10 +157,3 @@ Upload a CSV file, type your data analysis task into the chat box, and hit Enter
 * **More Data Sources**: Extend support to SQL, APIs, and more.
 * **Advanced Agent Skills**: Integrate tools like web search for external data.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue to discuss any new features or bug fixes before submitting a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
