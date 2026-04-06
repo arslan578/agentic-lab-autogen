@@ -9,7 +9,7 @@ from autogen_agentchat.ui import Console
 model_clint = OllamaChatCompletionClient(model="llama3.1")
 
 ## Testing the model.
-task = [UserMessage(content="Hi, How are you, i'm Al Amin.", source="user")]
+task = [UserMessage(content="Hi, How are you, i'm Arslan.", source="user")]
 
 async def get_response(task):
     response = await model_clint.create(task)
